@@ -13,5 +13,8 @@ hello linux
 hello linux
 hello linux
 hello git
-hello git 
+<<<<<<< HEAD
 hello master
+=======
+hello master 
+>>>>>>> hot-fix
