@@ -13,7 +13,5 @@ hello linux
 hello linux
 hello linux
 hello git
-hello git 
-hello git222335546
-我想吃饭！
-你好
+hello master 
+hello git
